@@ -1,2 +1,2 @@
 # realestate-web
-Web component for real-estate
+Web component for real-estate application
